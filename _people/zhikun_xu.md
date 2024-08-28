@@ -1,7 +1,7 @@
 ---
 name: Zhikun Xu
 position: gradstudent
-avatar: 
+avatar: zhikun_xu.jpg
 twitter: JerrryKun
 personal-url: https://jerrrrykun.github.io/
 ---
