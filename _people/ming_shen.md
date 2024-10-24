@@ -1,5 +1,5 @@
 ---
-name: Ming Shen (co-advised w/ Chitta Baral)
+name: Ming Shen</br>(co-advised w/ Chitta Baral)
 position: gradstudent
 avatar: ming_shen.jpg
 twitter: 
