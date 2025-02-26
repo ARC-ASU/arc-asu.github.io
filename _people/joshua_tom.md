@@ -1,7 +1,7 @@
 ---
 name: Joshua Tom
 position: undergrad
-avatar: joshua_tom.jpg
+avatar: joshua_tom.png
 twitter: jayTee
 personal-url: https://justjayt.github.io/
 ---
