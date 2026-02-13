@@ -1,8 +1,8 @@
 ---
-name: Joshua Tom
+name: Ash Srivastava
 position: undergrad
 avatar: ashs.png
-twitter: jayTee
+twitter: ashWorks
 personal-url: https://ashworks.dev/
 ---
 
